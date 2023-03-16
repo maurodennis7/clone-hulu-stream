@@ -9,7 +9,7 @@ Tecnologias usadas no projecto:
 
 ## 💻 Projeto
 
- * clone da plataform Hulu stream;
+ * clone da plataforma Hulu stream;
  * Um projecto para aumentar seu conhecimento geral em HTML, CSS e JS.
 
 Feito com ♥ por mauro_dennis7
